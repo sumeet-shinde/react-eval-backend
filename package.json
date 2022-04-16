@@ -1,0 +1,24 @@
+{
+  "name": "react-eval-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet-shinde/react-eval-backend.git"
+  },
+  "keywords": [],
+  "author": "Sumeet Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumeet-shinde/react-eval-backend/issues"
+  },
+  "homepage": "https://github.com/sumeet-shinde/react-eval-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
